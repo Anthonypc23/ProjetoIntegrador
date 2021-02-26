@@ -1,4 +1,4 @@
-Integantes:
+Integrantes:
 Anthony Richard
 Ingrid Drudi
 Joao Reis
