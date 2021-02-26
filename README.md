@@ -1,6 +1,6 @@
 Integrantes:
-Anthony Richard
-Ingrid Drudi
-Joao Reis
-Matheus Laguna
-Wesley 
+Anthony Richard,
+Ingrid Drudi,
+Joao Reis,
+Matheus Laguna,
+Wesley,
