@@ -3,4 +3,4 @@ Anthony Richard,
 Ingrid Drudi,
 Joao Reis,
 Matheus Laguna,
-Wesley
+Wesley Alexandre
